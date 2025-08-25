@@ -2,7 +2,7 @@ import React from 'react'
 
 const Minimal = () => {
   return (
-    <div><h1 className='text-[50px] absolute top-[50vh] left-[50vw] underline'>Minimal</h1></div>
+    <div><h1 className='text-[50px] absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 underline'>Minimal</h1></div>
   )
 }
 
