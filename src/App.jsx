@@ -9,7 +9,7 @@ import Nav from './components/Nav'
 const App = () => {
   return (
     <div>
-      <Nav/>
+      <Nav />
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/cars' element={<Car/>}/>
